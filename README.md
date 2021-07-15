@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# tp-u3-m5-cursoReactUTN
+TP de la Unidad 3 Modulo 5 del cursoReact UTN
+
+Conceptos aprendidos:
+- React-redux
+- useDispatch y useSelector
+- Crear una store para guardar estados
+- Crear reducer para modificar estados
+>>>>>>> d2e42de841873481fe4534d24599699156e59b89
